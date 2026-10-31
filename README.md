@@ -27,5 +27,8 @@ To run a prediction:
 
     Because it was two-tired!
 
+## License
 
+The code in this repository is licensed under the [Apache License 2.0](LICENSE).
 
+The model weights are not covered by this license. The default model, Llama 3 8B, is under the [Meta Llama 3 Community License](https://www.llama.com/llama3/license/); any other Ollama model you load follows its own license.
